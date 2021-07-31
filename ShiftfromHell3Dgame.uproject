@@ -8,6 +8,11 @@
 			"Name": "SafeDelete",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/daf26df8b4c94149900ea0dd0a264071"
+		},
+		{
+			"Name": "VehicleSystemPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9577489aa3264ecf94142dad1bc2956c"
 		}
 	]
 }
